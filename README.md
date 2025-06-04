@@ -5,7 +5,7 @@ This repository contains PDF certificates for completed training and professiona
 ## 📜 Certifications
 
 - **Data Science and Big Data Bootcamp** – WeCloudData  
-  [View Certificate](./weclouddata_bootcamp_certificate.pdf)
+  [View Certificate](./Karina Oborska-Balkowiec_Certifcate.pdf)
 
 - **PCEP – Certified Entry-Level Python Programmer**  
-  [View Certificate](./pcep_python_certificate.pdf)
+  [View Certificate](./Python Entry certificate.pdf)
